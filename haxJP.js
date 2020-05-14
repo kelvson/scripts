@@ -2,8 +2,7 @@
  * CONSTS
  */
 window.gameDocument = document.getElementsByClassName('gameframe')[0].contentWindow.document
-console.log("UPDATE!");
-const gameUrl   = 'https://www.haxball.com/playaa';
+const gameUrl   = 'https://www.haxball.com/play';
 const positions = {
     "up"        : "N",
     "left"      : "W",
